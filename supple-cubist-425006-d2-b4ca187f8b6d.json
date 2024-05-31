@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "supple-cubist-425006-d2",
+  "private_key_id": "b4ca187f8b6dccd2a1f00bed03055249ce5e74f0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjqfJfQgdbfMUP\nj76/VG9NJA+ko1YAbMQWsJD144y53LgYOS+HSxULXP3y2oWSwAhnTwe6NhAkfRdW\nhrK9eO6toSt6e2qXFvHAz9V8xiXlpX9Zhj3h4MN90i/FuDtOk/uNEk9GcvkC8B39\nRQlLLu4GMVRnBm9GWIwi4Ko8BECCzxdw4KhYrV28XYxG45YMahlA4G0dO8EhT/pz\n3gMvKL53XMgCYkJSXFf1UrvCwTvPucALhRW6C5Nm03iLoK6weC2evTYcuA4XntI5\nZSgC/Ywk/p+sP6maawvgYKdJY+tqUABKynmMjMo4S/bfz3G5szXH6jaBYyXu5hs0\nEIS/wSZBAgMBAAECggEAAKm8FyGz2O2I+NaqvaiwaL4YKCEXRJosMzFU7QIWfFxG\nDKcSp7gopiqixryW5PDNN+nsjJcSeqtdEFcsWzMluGNaQz1Dwcfwg8jzwvUkiykf\n+nNeRc98y0IyOllUOC3GS5yC4LSviJEDdha1Am52vWSuxFoU0lKigrOpTOPxhPYj\nKBAs3sqL+9V3XgI1COzdjBaKJxYNBn8i+7y9YPF1CruGt/UThMpnTUgjmfRDtpj+\nTqvSY7H9LPgtXZAuuwiZOUueGLCo1zctAmtYXF+6KUofCAMn++2XCTI47G/nkgA1\nNL1EXhIJ9sH/ygNW/0yg9dj/0ARWDtkZrHyEYiEYnwKBgQDPePXeTCVyYYhynYcP\nnV8q1n7WQJ0rPeK5Qu2h2Q/Nzoljg0ueoSnPqaxtYNqCHEUp3UVN6GO5JXC19D+j\nqgezkz8Mu2GGuEe1tJ/UImDsUkY8v3xkgJ/V3kVp/Pp50f0v8PyYvujTiTeTsdBW\nO0Yk8QhW6jbfffB7cJxd2ggfUwKBgQDJ8c/a9IFjCHCgrSWF0u96Rag6LO946oCO\n7qzF67Wj0jiuwdE9IZqUK2e+n72VrP0dfqMJXox/LUdwZqPF4AkOowcvWdwLG9Q+\nLK9c04KOc3jrtxFgBIJyemJ54/W694NOtuCT0o1FdrVd3VwlAHlZqR7yYI0bWxyn\nZMa33v41mwKBgClTULYMuNDFuKYL1qE3mYMw4mbOy/+W/hgkyqyYTduSri8SMffQ\n5kEk7OGEj0GnW+dw2aMhDOwOFxtHIX36Gjqcs8xXbp+lCTOaXNOmXWP1J2RmR+LE\n9BFnirAH4eRt/V6VQ9sw+7NW+6kBnBvxBpHJKP4W/QMbVNFhpuPS0BddAoGBAJks\n78pW16V0i2l0rBd7zeXi3B10ZBhFV0oTQ73EcjxWgmQb40gJKyTkX4a5x6W2Vy9+\nFNBQhSUaBSv+zo6SxovxoMuLz1olu7GFV2aDkG3YrImujGFWSlPm/LcT8BnnEBQu\npt25QSrFRgBynSf72g/mNfEGx0FOtMdLq2dgn1WtAoGBAK6fByhc2rwN42y71yEQ\n+xntFm2ZfAmDxzmBWWIkwQxz/X1Vv4BIb1QRsGS9/k3VAGohJgZVr13gVi+XC1lD\ncWUi/ePWGo7D0ZKQtx64amEbICqk5uozOiextawbduWogUW9EdNLjJBnnBtDnb6w\n5Nf5D2GqrjWKtBY6v2u/HIHz\n-----END PRIVATE KEY-----\n",
+  "client_email": "gdrive-music-access@supple-cubist-425006-d2.iam.gserviceaccount.com",
+  "client_id": "103709606008739266833",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gdrive-music-access%40supple-cubist-425006-d2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
